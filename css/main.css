@@ -1,0 +1,48 @@
+.photo {
+  float: left;
+}
+
+.block {
+  /* border: solid black; */
+}
+
+.logo {
+  padding-top: 50px;
+}
+
+.info {
+  padding-left: 480px;
+}
+
+.facebook {
+  padding-left: 570px;
+}
+
+.entry {
+  padding-left: 568px;
+}
+
+.signup {
+  padding-left: 603px;
+}
+
+.login {
+  padding-left: 550px;
+}
+.app {
+  display: flex;
+}
+
+footer {
+  clear: both;
+}
+
+ul {
+  text-align: center;
+  font-size: 15px;
+}
+
+li {
+  display: inline;
+  padding: 5px;
+}
